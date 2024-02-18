@@ -2,7 +2,7 @@
 
 Linea Vesting is a linear vesting module for Sui. It allows for the creation of linear vesting schedules for a set of coins. The module is designed to be used by the Sui governance to distribute tokens to team members, investors, and other stakeholders over a period of time.
 
-## Features
+## Features
 
 - Create linear vesting schedules for a set of coins
 - Schedule vesting for a set of coins
